@@ -1,3 +1,3 @@
 # Personal Repository
 
-This repository is intended to contain my resume and some selected codes and project ideas.
+This repository serves as a portfolio showcasing my resume, selected code samples, and project concepts.
