@@ -74,4 +74,3 @@ Following a reorganization, my team joined the Ads Product organization, where I
 - Some random fun codes I created while studying Python: [py_play](https://github.com/danielrferreira/py_play/blob/main/readme.md)
 - My translation to python of some of the methods I used in my career: [pySETTV](https://github.com/danielrferreira/pySETTV). I still have to make it better by using more class objects.
 - Arduino projects: [arduino_misc](https://github.com/danielrferreira/arduino_misc)
-
