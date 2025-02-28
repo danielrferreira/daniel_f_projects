@@ -337,7 +337,7 @@ class eda_aid:
                 d.bar_label(d.containers[0])
                 plt.title(f'Proportion of {j}={cross_tab.columns[1]} vs {i}')
                 plt.show()
-    def ln_analysis(self, outcome, x_columns = None, bins = 10, rem_ol = False, thres_1 = 0.05, thres_2 = 0.95):
+    def ln_analysis(self, outcome, x_columns = None, bins = 10, rem_ol = False, thres_1 = 0.05, thres_2 = 0.95) -> None:
         '''
         This function helps understand if polynomial terms and/or transformations are needed in a logistic regression. It calculates ln(p/(1-p)) of each bin of numerical columns.
         It also plot the ranges used, and a kernel distribution to help decide which transformation or polynomial term would help.
