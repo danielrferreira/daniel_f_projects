@@ -1,4 +1,4 @@
-# Explore Aid
+# Exploratory Aid
 
 This code contains functions that can help exploring a data set.
 
