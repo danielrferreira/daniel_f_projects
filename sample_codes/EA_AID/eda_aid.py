@@ -382,3 +382,7 @@ class eda_aid:
             for i, int in enumerate(original_indexes):
                 print(f'{i} = {original_indexes[i]}')
             plt.show()
+    def eda_quant_vs_quant_bi(self, outcome, x_columns = None, drop_hc=True, max_card=20) -> None:
+        pass
+    def quant_bivariate(self, col1, col2) -> None:
+        pass
