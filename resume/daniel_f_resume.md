@@ -13,7 +13,7 @@ I have 19 years in advanced analytics, spanning industries such as Adtech, Renew
     - Data Scientist (1 year accross  Meta and DSD Renewables) 
     - Research Scientist (2 years at Meta)
     - Consumer Researcher (4 years at Meta)
-    - Statistical and Machine Learning Teacher (7 years accross FIA and Interview Kickstart)
+    - Statistical and Machine Learning Teacher (10 years accross FIA, ASN, SAS Education and Interview Kickstart)
     - Statistical Consultant (7 years at SAS)
     - Statistical Analyst (3 years across Nielsen and Claro)
     - Statistical Intern (1 year accross Unibanco, Hospital de Clinicas Campinas and Nielsen) 
@@ -46,7 +46,7 @@ Following a reorganization, my team joined the Ads Product organization, where I
 
 - **SAS** - Feb 2010 - Aug 2016 - Technical Support Consultant - Instructor - Statistical Consultant: At SAS, I held three different roles, all centered around statistical consulting. My work involved projects such as fraud prevention through statistical modeling, demand forecasting, and price optimization to maximize revenue. As an instructor, I traveled across Brazil, teaching statistics and SAS software to approximately 2,000 clients. In 2023, I collaborated with the Brazilian SAS office on a four-week training project, delivering SAS Enterprise Guide instruction tailored to the needs of a Brazilian government branch. During my time at SAS, I actively participated in numerous training programs, earned four professional certifications, and gained invaluable international work experience in both the United States and Colombia.
 
-- **Claro** - Oct 2019 - Feb 2010 - Business Analyst: I gained experience in the telecommunications industry, focusing on developing and monitoring quality performance indicators. During this time, I utilized tools such as VBA, Excel, and SQL, which allowed me to strengthen my skills in data analysis and drive process improvements.
+- **Claro** - Oct 2009 - Feb 2010 - Business Analyst: I gained experience in the telecommunications industry, focusing on developing and monitoring quality performance indicators. During this time, I utilized tools such as VBA, Excel, and SQL, which allowed me to strengthen my skills in data analysis and drive process improvements.
 
 - **Nielsen** - Dec 2006 - Oct 2009 - Statistical Analyst: I began as an intern and transitioned into a full-time role in the Statistics Department, where I contributed to developing and delivering training programs on sampling methods. Additionally, I provided analytical support to address clients' statistical needs, working extensively with SAS codes, VBA, and marketing research techniques, particularly in the consumer packaged goods (CPG) sector.
 
