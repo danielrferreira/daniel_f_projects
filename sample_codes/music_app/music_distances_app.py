@@ -11,7 +11,7 @@ from sklearn.preprocessing import MinMaxScaler
 
 # Core class ported to Streamlit
 class MusicExplorer:
-    def __init__(self, file_path='input_df.csv',
+    def __init__(self, file_path='../data_sources/input_df.csv',
                  X_cols=['danceability','energy','loudness','speechiness','acousticness','liveness','valence'],
                  lyric_col='lyrics',
                  id_col='songurl'):
