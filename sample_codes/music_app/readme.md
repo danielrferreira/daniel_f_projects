@@ -35,3 +35,7 @@ Place this file as `data_sources/input_df.csv`.
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
+
+2. Launch the app:
+  ```bash
+  streamlit run app.py
