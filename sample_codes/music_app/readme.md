@@ -32,10 +32,14 @@ Place this file as `data_sources/input_df.csv`.
 
 ##  How to Run
 
-1. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
+A deployed version is coming in a different repo, but if you want to run it locally you can:
 
-2. Launch the app:
-    ```bash
-    streamlit run app.py
+1. Download the py file, requirements and data folder.
+
+2. Install dependencies:
+  ```bash
+  pip install -r requirements.txt
+
+3. Launch the app:
+  ```bash
+  streamlit run music_distances_app.py
