@@ -1,0 +1,3 @@
+- ~~datetime columns inclusion in the init and other functions~~
+- ~~columns df unique values inclusion~~
+- quant vs quant bivariate
